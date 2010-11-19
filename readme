@@ -1,0 +1,11 @@
+Initialisation du projet :
+1. Télécharger eclipse (3.6.x) version Classic
+2. Installer SVN (via eclipse):
+  a. Menu Help > Install new software
+  b. Installer subversive
+  
+3. Installer SVN (via internet)
+  a. Aller sur http://www.eclipse.org/subversive/downloads.php
+  b. Suivez les instructions d'installation
+
+4. 
